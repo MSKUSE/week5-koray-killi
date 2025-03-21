@@ -2,7 +2,7 @@ public class Point {
 
 
     // Order: Constructor -> Setter and Getter -> Methods -> String
-
+    // Things we have learned in this class: 'new' identifier, constructors, Object Orianted Paradigms' Essentials, UML
     public int xCoord, yCoord;
 
     public Point(){
